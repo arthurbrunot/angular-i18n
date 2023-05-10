@@ -6,7 +6,7 @@ import { TranslateService } from '@ngx-translate/core';
   templateUrl: './app.component.html'
 })
 export class AppComponent {
-  supportedLanguages: string[] = ['en', 'fr']
+  supportedLanguages: string[] = ['en', 'fr', 'es']
 
   constructor(public translate: TranslateService) {
     translate.setDefaultLang('en'); // Set the default language

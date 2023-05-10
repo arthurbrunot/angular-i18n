@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms';
-import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'app-newsletter',
@@ -11,7 +10,7 @@ export class NewsletterComponent {
   showModal: boolean = false;
   email: string = '';
 
-  constructor(private translate: TranslateService) {
+  constructor() {
     this.emailForm = new FormGroup({
       email: new FormControl('', [Validators.required, Validators.email])
     });

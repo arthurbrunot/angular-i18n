@@ -2,7 +2,7 @@
 
 This is a simple homepage app built with Angular 16 showing the translation capabilities of `@ngx-translate` package.
 
-Live version of this project is available at this url: https://angular-school-manager-otb2ww5ye-arthurbrunot.vercel.app/
+Live version of this project is available at this url: https://angular-i18n-one.vercel.app/
 
 ## Student informations
 
@@ -40,6 +40,8 @@ Run `ng build` to build the application. The build artifacts will be stored in t
 This simple app shows the working of the @ngx-translate package. It allows to translate the app in 3 languages (but can accept more): English, French and Spanish.
 You can inspect the simple translation workflow in the app.component.ts file.
 
+The application is covered by somple simple tests to check if translation works
+
 ## Technologies Used
 
 This application is built using the following technologies:
@@ -48,6 +50,7 @@ This application is built using the following technologies:
 - TypeScript: A superset of JavaScript that provides optional static typing and other features for building scalable applications.
 - Tailwind CSS: A utility-first CSS framework for building modern and responsive user interfaces.
 - @ngx-translate: An internationalization library for Angular applications.
+- Jasmine & Karma for testing application
 
 ## Contributing
 

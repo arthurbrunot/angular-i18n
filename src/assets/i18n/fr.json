@@ -1,0 +1,65 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Bienvenue sur notre site",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button": "Commencer"
+  },
+  "priceTable": {
+    "heading": "Tarification",
+    "basic": {
+      "name": "Basique",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": "19,99 $",
+      "button": "Acheter maintenant"
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": "49,99 $",
+      "button": "Acheter maintenant"
+    },
+    "premium": {
+      "name": "Premium",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": "99,99 $",
+      "button": "Acheter maintenant"
+    }
+  },
+  "features": {
+    "heading": "Fonctionnalités",
+    "feature1": {
+      "title": "Fonctionnalité 1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "feature2": {
+      "title": "Fonctionnalité 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "feature3": {
+      "title": "Fonctionnalité 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  },
+  "fr": "Français",
+  "en": "Anglais",
+  "newsletter": {
+    "heading": "Abonnez-vous à notre newsletter",
+    "form": {
+      "emailLabel": "Email",
+      "submitButton": "Envoyer",
+      "invalidEmail": "Email invalide",
+      "invalidEmailMessage": "Veuillez entrer une adresse email valide."
+    },
+    "modal": {
+      "title": "Confirmation d'abonnement",
+      "confirmationMessage": "Merci pour votre abonnement !",
+      "closeButton": "Fermer"
+    }
+  }
+}

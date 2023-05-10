@@ -5,6 +5,8 @@ import { TranslateService } from '@ngx-translate/core';
   selector: 'app-root',
   templateUrl: './app.component.html'
 })
+// translations workflow is done with @ngx-translate, preferred over i18n because it is easier to implement and
+// maintain, and its usage is simpler.
 export class AppComponent {
   supportedLanguages: string[] = ['en', 'fr', 'es']
 

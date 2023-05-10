@@ -16,8 +16,8 @@ export class NewsletterComponent {
     });
   }
 
+  // handle modal submit
   onSubmit() {
-    console.log(this.emailForm.value)
     if (this.emailForm.valid) {
       this.showConfirmationModal()
       this.email = this.emailForm.value.email;

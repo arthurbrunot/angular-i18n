@@ -18,6 +18,7 @@ import {NewsletterModule} from "./newsletter/newsletter.module";
       loader: {
         provide: TranslateLoader,
         useFactory: (http: HttpClient) => {
+          // load all translations files
           return new TranslateHttpLoader(http, './assets/i18n/', '.json');
         },
         deps: [HttpClient]

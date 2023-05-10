@@ -1,67 +1,66 @@
 {
   "navbar": {
-    "home": "Home",
-    "about": "About",
-    "services": "Services",
-    "contact": "Contact"
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "contact": "Contacto"
   },
   "hero": {
-    "title": "Welcome to our website",
+    "title": "Bienvenido a nuestro sitio web",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "button": "Get Started"
+    "button": "Empezar"
   },
   "priceTable": {
-    "heading": "Pricing",
+    "heading": "Precios",
     "basic": {
-      "name": "Basic",
+      "name": "Básico",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "price": "$19.99",
-      "button": "Buy Now"
+      "button": "Comprar ahora"
     },
     "pro": {
       "name": "Pro",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "price": "$49.99",
-      "button": "Buy Now"
+      "button": "Comprar ahora"
     },
     "premium": {
       "name": "Premium",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "price": "$99.99",
-      "button": "Buy Now"
+      "button": "Comprar ahora"
     }
   },
   "features": {
-    "heading": "Features",
+    "heading": "Características",
     "feature1": {
-      "title": "Feature 1",
+      "title": "Característica 1",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     "feature2": {
-      "title": "Feature 2",
+      "title": "Característica 2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     "feature3": {
-      "title": "Feature 3",
+      "title": "Característica 3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
   },
-  "fr": "French",
-  "en": "English",
-  "es": "Spanish",
+  "fr": "Francés",
+  "en": "Inglés",
+  "es": "Español",
   "newsletter": {
-    "heading": "Newsletter",
+    "heading": "Boletín",
     "form": {
-      "emailLabel": "Email",
-      "submitButton": "Submit",
-      "invalidEmail": "Invalid Email",
-      "invalidEmailMessage": "Please enter a valid email address."
+      "emailLabel": "Correo electrónico",
+      "submitButton": "Enviar",
+      "invalidEmail": "Correo electrónico inválido",
+      "invalidEmailMessage": "Por favor ingresa una dirección de correo electrónico válida."
     },
     "modal": {
-      "title": "Subscription Confirmation",
-      "confirmationMessage": "Thank you for subscribing!",
-      "closeButton": "Close"
+      "title": "Confirmación de suscripción",
+      "confirmationMessage": "¡Gracias por suscribirte!",
+      "closeButton": "Cerrar"
     }
   }
 }
-
